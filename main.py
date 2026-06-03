@@ -3,7 +3,7 @@ import os
 
 class File:
     """
-    Описание но мне лень его писать
+    Description or some text    
     """
     def __init__(self, file_name: str, create_or_not: bool, writing_content: str):
         self.file_name = file_name
